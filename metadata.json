@@ -1,0 +1,6 @@
+{
+  "name": "Taskora - AI Personal Productivity & Action Planner",
+  "description": "Turn messy thoughts, notes, and goals into organized tasks, day-by-day action plans, and reminders with Taskora AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
